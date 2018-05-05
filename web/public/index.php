@@ -5,12 +5,9 @@
 
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>Docker <?php echo $foo->getName(); ?></title>
-    </head>
+   
     <body>
-        <h1>Docker <?php echo $foo->getName(); ?></h1>
+        <h1>Hello, World</h1>
         
         <?php phpinfo(); ?>
     </body>
